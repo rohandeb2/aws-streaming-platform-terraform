@@ -14,7 +14,7 @@ frontend_image = "123456789012.dkr.ecr.ap-south-1.amazonaws.com/frontend:v1.2.4"
 backend_image  = "123456789012.dkr.ecr.ap-south-1.amazonaws.com/backend:v2.1.0"
 
 # Content Delivery
-domain_name       = "hotstar-clone.com"
+domain_name       = "aws-prime-clone.com"
 media_bucket_name = "prod-media-assets-hotstar"
 
 # CI/CD Integration
