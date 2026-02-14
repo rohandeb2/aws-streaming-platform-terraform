@@ -31,7 +31,7 @@
 ## 🏗️ Architecture Overview
 
 <!-- Infrastructure Diagram Placeholder -->
-![Infrastructure Architecture](./docs/1.png)
+![Infrastructure Architecture](./1.png)
 *High-level architecture diagram showcasing the complete AWS infrastructure stack*
 
 ### Architecture Highlights
